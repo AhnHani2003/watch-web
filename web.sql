@@ -53,14 +53,15 @@ FOREIGN KEY(categoryid) REFERENCES category(categoryID)
 	CREATE TABLE TOPDANHMUC(
 	id int IDENTITY (1,1) PRIMARY KEY,
 	tendanhmuc varchar (50) NOT NULL,
+	alias varchar(150),
 	hinhanh varchar(MAX) NOT NULL,
 	topp bit NOT NULL
 	)
 
-INSERT INTO TOPDANHMUC (tendanhmuc, hinhanh, topp) VALUES
-('TOP NEW','https://github.com/AhnHani2003/watch-web/assets/145345242/220de57e-fc35-4c1d-9bcd-70f267bf32b3','true'),
-('TOP SELLER','https://github.com/AhnHani2003/watch-web/assets/145345242/b171bb15-422f-4b7c-9fcf-1d32a2bf3a36','true'),
-('TOP DISCOUNT','https://github.com/AhnHani2003/watch-web/assets/145345242/9fe04322-c9f3-4cf4-9d6a-ea78d7973f2c','true');
+INSERT INTO TOPDANHMUC (tendanhmuc, alias, hinhanh, topp) VALUES
+('TOP NEW','New-Product?dmid=true','https://github.com/AhnHani2003/watch-web/assets/145345242/220de57e-fc35-4c1d-9bcd-70f267bf32b3','true'),
+('TOP SELLER','Best-Seller?dmid=true','https://github.com/AhnHani2003/watch-web/assets/145345242/b171bb15-422f-4b7c-9fcf-1d32a2bf3a36','true'),
+('TOP DISCOUNT','Discount?dmid=true','https://github.com/AhnHani2003/watch-web/assets/145345242/9fe04322-c9f3-4cf4-9d6a-ea78d7973f2c','true');
 
 
 
