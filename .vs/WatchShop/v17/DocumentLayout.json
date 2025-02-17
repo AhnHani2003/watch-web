@@ -1,0 +1,361 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\84792\\source\\repos\\WatchShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86A3A906-60EA-488E-B419-CE2ECEC3AB2F}|WatchShop\\WatchShop.csproj|c:\\users\\84792\\source\\repos\\watchshop\\watchshop\\controllers\\partialviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A3A906-60EA-488E-B419-CE2ECEC3AB2F}|WatchShop\\WatchShop.csproj|solutionrelative:watchshop\\controllers\\partialviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A3A906-60EA-488E-B419-CE2ECEC3AB2F}|WatchShop\\WatchShop.csproj|C:\\Users\\84792\\source\\repos\\WatchShop\\watchshop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A3A906-60EA-488E-B419-CE2ECEC3AB2F}|WatchShop\\WatchShop.csproj|solutionrelative:watchshop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A3A906-60EA-488E-B419-CE2ECEC3AB2F}|WatchShop\\WatchShop.csproj|C:\\Users\\84792\\source\\repos\\WatchShop\\watchshop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A3A906-60EA-488E-B419-CE2ECEC3AB2F}|WatchShop\\WatchShop.csproj|solutionrelative:watchshop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A3A906-60EA-488E-B419-CE2ECEC3AB2F}|WatchShop\\WatchShop.csproj|C:\\Users\\84792\\source\\repos\\WatchShop\\watchshop\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A3A906-60EA-488E-B419-CE2ECEC3AB2F}|WatchShop\\WatchShop.csproj|solutionrelative:watchshop\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A3A906-60EA-488E-B419-CE2ECEC3AB2F}|WatchShop\\WatchShop.csproj|C:\\Users\\84792\\source\\repos\\WatchShop\\watchshop\\views\\product\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86A3A906-60EA-488E-B419-CE2ECEC3AB2F}|WatchShop\\WatchShop.csproj|solutionrelative:watchshop\\views\\product\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A3A906-60EA-488E-B419-CE2ECEC3AB2F}|WatchShop\\WatchShop.csproj|C:\\Users\\84792\\source\\repos\\WatchShop\\watchshop\\views\\partialview\\topseller.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86A3A906-60EA-488E-B419-CE2ECEC3AB2F}|WatchShop\\WatchShop.csproj|solutionrelative:watchshop\\views\\partialview\\topseller.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A3A906-60EA-488E-B419-CE2ECEC3AB2F}|WatchShop\\WatchShop.csproj|C:\\Users\\84792\\source\\repos\\WatchShop\\watchshop\\views\\partialview\\productwidget.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86A3A906-60EA-488E-B419-CE2ECEC3AB2F}|WatchShop\\WatchShop.csproj|solutionrelative:watchshop\\views\\partialview\\productwidget.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A3A906-60EA-488E-B419-CE2ECEC3AB2F}|WatchShop\\WatchShop.csproj|C:\\Users\\84792\\source\\repos\\WatchShop\\watchshop\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86A3A906-60EA-488E-B419-CE2ECEC3AB2F}|WatchShop\\WatchShop.csproj|solutionrelative:watchshop\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A3A906-60EA-488E-B419-CE2ECEC3AB2F}|WatchShop\\WatchShop.csproj|C:\\Users\\84792\\source\\repos\\WatchShop\\watchshop\\views\\products\\allproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86A3A906-60EA-488E-B419-CE2ECEC3AB2F}|WatchShop\\WatchShop.csproj|solutionrelative:watchshop\\views\\products\\allproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A3A906-60EA-488E-B419-CE2ECEC3AB2F}|WatchShop\\WatchShop.csproj|C:\\Users\\84792\\source\\repos\\WatchShop\\watchshop\\views\\shared\\_layoutmain.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86A3A906-60EA-488E-B419-CE2ECEC3AB2F}|WatchShop\\WatchShop.csproj|solutionrelative:watchshop\\views\\shared\\_layoutmain.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A3A906-60EA-488E-B419-CE2ECEC3AB2F}|WatchShop\\WatchShop.csproj|C:\\Users\\84792\\source\\repos\\WatchShop\\watchshop\\views\\admin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86A3A906-60EA-488E-B419-CE2ECEC3AB2F}|WatchShop\\WatchShop.csproj|solutionrelative:watchshop\\views\\admin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A3A906-60EA-488E-B419-CE2ECEC3AB2F}|WatchShop\\WatchShop.csproj|C:\\Users\\84792\\source\\repos\\WatchShop\\watchshop\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86A3A906-60EA-488E-B419-CE2ECEC3AB2F}|WatchShop\\WatchShop.csproj|solutionrelative:watchshop\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A3A906-60EA-488E-B419-CE2ECEC3AB2F}|WatchShop\\WatchShop.csproj|C:\\Users\\84792\\source\\repos\\WatchShop\\watchshop\\views\\partialview\\topnew.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86A3A906-60EA-488E-B419-CE2ECEC3AB2F}|WatchShop\\WatchShop.csproj|solutionrelative:watchshop\\views\\partialview\\topnew.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A3A906-60EA-488E-B419-CE2ECEC3AB2F}|WatchShop\\WatchShop.csproj|C:\\Users\\84792\\source\\repos\\WatchShop\\watchshop\\views\\partialview\\productwidgetdiscount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86A3A906-60EA-488E-B419-CE2ECEC3AB2F}|WatchShop\\WatchShop.csproj|solutionrelative:watchshop\\views\\partialview\\productwidgetdiscount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A3A906-60EA-488E-B419-CE2ECEC3AB2F}|WatchShop\\WatchShop.csproj|C:\\Users\\84792\\source\\repos\\WatchShop\\watchshop\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A3A906-60EA-488E-B419-CE2ECEC3AB2F}|WatchShop\\WatchShop.csproj|solutionrelative:watchshop\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A3A906-60EA-488E-B419-CE2ECEC3AB2F}|WatchShop\\WatchShop.csproj|C:\\Users\\84792\\source\\repos\\WatchShop\\watchshop\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A3A906-60EA-488E-B419-CE2ECEC3AB2F}|WatchShop\\WatchShop.csproj|solutionrelative:watchshop\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A3A906-60EA-488E-B419-CE2ECEC3AB2F}|WatchShop\\WatchShop.csproj|C:\\Users\\84792\\source\\repos\\WatchShop\\watchshop\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A3A906-60EA-488E-B419-CE2ECEC3AB2F}|WatchShop\\WatchShop.csproj|solutionrelative:watchshop\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A3A906-60EA-488E-B419-CE2ECEC3AB2F}|WatchShop\\WatchShop.csproj|C:\\Users\\84792\\source\\repos\\WatchShop\\watchshop\\views\\products\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86A3A906-60EA-488E-B419-CE2ECEC3AB2F}|WatchShop\\WatchShop.csproj|solutionrelative:watchshop\\views\\products\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A3A906-60EA-488E-B419-CE2ECEC3AB2F}|WatchShop\\WatchShop.csproj|C:\\Users\\84792\\source\\repos\\WatchShop\\watchshop\\views\\products\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86A3A906-60EA-488E-B419-CE2ECEC3AB2F}|WatchShop\\WatchShop.csproj|solutionrelative:watchshop\\views\\products\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A3A906-60EA-488E-B419-CE2ECEC3AB2F}|WatchShop\\WatchShop.csproj|C:\\Users\\84792\\source\\repos\\WatchShop\\watchshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86A3A906-60EA-488E-B419-CE2ECEC3AB2F}|WatchShop\\WatchShop.csproj|solutionrelative:watchshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A3A906-60EA-488E-B419-CE2ECEC3AB2F}|WatchShop\\WatchShop.csproj|C:\\Users\\84792\\source\\repos\\WatchShop\\watchshop\\views\\admin\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86A3A906-60EA-488E-B419-CE2ECEC3AB2F}|WatchShop\\WatchShop.csproj|solutionrelative:watchshop\\views\\admin\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TopSeller.cshtml",
+              "DocumentMoniker": "C:\\Users\\84792\\source\\repos\\WatchShop\\WatchShop\\Views\\PartialView\\TopSeller.cshtml",
+              "RelativeDocumentMoniker": "WatchShop\\Views\\PartialView\\TopSeller.cshtml",
+              "ToolTip": "C:\\Users\\84792\\source\\repos\\WatchShop\\WatchShop\\Views\\PartialView\\TopSeller.cshtml",
+              "RelativeToolTip": "WatchShop\\Views\\PartialView\\TopSeller.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T05:24:07.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductWidget.cshtml",
+              "DocumentMoniker": "C:\\Users\\84792\\source\\repos\\WatchShop\\WatchShop\\Views\\PartialView\\ProductWidget.cshtml",
+              "RelativeDocumentMoniker": "WatchShop\\Views\\PartialView\\ProductWidget.cshtml",
+              "ToolTip": "C:\\Users\\84792\\source\\repos\\WatchShop\\WatchShop\\Views\\PartialView\\ProductWidget.cshtml",
+              "RelativeToolTip": "WatchShop\\Views\\PartialView\\ProductWidget.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAACqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-31T02:28:29.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\84792\\source\\repos\\WatchShop\\WatchShop\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WatchShop\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\84792\\source\\repos\\WatchShop\\WatchShop\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WatchShop\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAADQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T15:31:06.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\84792\\source\\repos\\WatchShop\\WatchShop\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "WatchShop\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\84792\\source\\repos\\WatchShop\\WatchShop\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "WatchShop\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:23:38.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\84792\\source\\repos\\WatchShop\\WatchShop\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WatchShop\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\84792\\source\\repos\\WatchShop\\WatchShop\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WatchShop\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T07:36:40.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PartialViewController.cs",
+              "DocumentMoniker": "C:\\Users\\84792\\source\\repos\\WatchShop\\WatchShop\\Controllers\\PartialViewController.cs",
+              "RelativeDocumentMoniker": "WatchShop\\Controllers\\PartialViewController.cs",
+              "ToolTip": "C:\\Users\\84792\\source\\repos\\WatchShop\\WatchShop\\Controllers\\PartialViewController.cs",
+              "RelativeToolTip": "WatchShop\\Controllers\\PartialViewController.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:24:19.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\84792\\source\\repos\\WatchShop\\WatchShop\\Views\\Product\\ProductDetails.cshtml",
+              "RelativeDocumentMoniker": "WatchShop\\Views\\Product\\ProductDetails.cshtml",
+              "ToolTip": "C:\\Users\\84792\\source\\repos\\WatchShop\\WatchShop\\Views\\Product\\ProductDetails.cshtml",
+              "RelativeToolTip": "WatchShop\\Views\\Product\\ProductDetails.cshtml",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAACcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T07:37:49.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\84792\\source\\repos\\WatchShop\\WatchShop\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "WatchShop\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\84792\\source\\repos\\WatchShop\\WatchShop\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "WatchShop\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAF0AAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T13:15:08.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AllProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\84792\\source\\repos\\WatchShop\\WatchShop\\Views\\Products\\AllProduct.cshtml",
+              "RelativeDocumentMoniker": "WatchShop\\Views\\Products\\AllProduct.cshtml",
+              "ToolTip": "C:\\Users\\84792\\source\\repos\\WatchShop\\WatchShop\\Views\\Products\\AllProduct.cshtml",
+              "RelativeToolTip": "WatchShop\\Views\\Products\\AllProduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T12:23:23.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_LayoutMain.cshtml",
+              "DocumentMoniker": "C:\\Users\\84792\\source\\repos\\WatchShop\\WatchShop\\Views\\Shared\\_LayoutMain.cshtml",
+              "RelativeDocumentMoniker": "WatchShop\\Views\\Shared\\_LayoutMain.cshtml",
+              "ToolTip": "C:\\Users\\84792\\source\\repos\\WatchShop\\WatchShop\\Views\\Shared\\_LayoutMain.cshtml",
+              "RelativeToolTip": "WatchShop\\Views\\Shared\\_LayoutMain.cshtml",
+              "ViewState": "AQIAAFYBAAAAAAAAAAAAAHMBAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T13:51:05.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\84792\\source\\repos\\WatchShop\\WatchShop\\Views\\Admin\\Details.cshtml",
+              "RelativeDocumentMoniker": "WatchShop\\Views\\Admin\\Details.cshtml",
+              "ToolTip": "C:\\Users\\84792\\source\\repos\\WatchShop\\WatchShop\\Views\\Admin\\Details.cshtml",
+              "RelativeToolTip": "WatchShop\\Views\\Admin\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T19:28:42.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\84792\\source\\repos\\WatchShop\\WatchShop\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "WatchShop\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\84792\\source\\repos\\WatchShop\\WatchShop\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "WatchShop\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T15:42:18.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductWidgetDiscount.cshtml",
+              "DocumentMoniker": "C:\\Users\\84792\\source\\repos\\WatchShop\\WatchShop\\Views\\PartialView\\ProductWidgetDiscount.cshtml",
+              "RelativeDocumentMoniker": "WatchShop\\Views\\PartialView\\ProductWidgetDiscount.cshtml",
+              "ToolTip": "C:\\Users\\84792\\source\\repos\\WatchShop\\WatchShop\\Views\\PartialView\\ProductWidgetDiscount.cshtml",
+              "RelativeToolTip": "WatchShop\\Views\\PartialView\\ProductWidgetDiscount.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-31T02:28:30.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\84792\\source\\repos\\WatchShop\\WatchShop\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WatchShop\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\84792\\source\\repos\\WatchShop\\WatchShop\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WatchShop\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAkwE8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:14:49.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TopNew.cshtml",
+              "DocumentMoniker": "C:\\Users\\84792\\source\\repos\\WatchShop\\WatchShop\\Views\\PartialView\\TopNew.cshtml",
+              "RelativeDocumentMoniker": "WatchShop\\Views\\PartialView\\TopNew.cshtml",
+              "ToolTip": "C:\\Users\\84792\\source\\repos\\WatchShop\\WatchShop\\Views\\PartialView\\TopNew.cshtml",
+              "RelativeToolTip": "WatchShop\\Views\\PartialView\\TopNew.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T14:39:19.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\84792\\source\\repos\\WatchShop\\WatchShop\\Global.asax.cs",
+              "RelativeDocumentMoniker": "WatchShop\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\84792\\source\\repos\\WatchShop\\WatchShop\\Global.asax.cs",
+              "RelativeToolTip": "WatchShop\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:25:51.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\84792\\source\\repos\\WatchShop\\WatchShop\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "WatchShop\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\84792\\source\\repos\\WatchShop\\WatchShop\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "WatchShop\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T11:49:33.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index1.cshtml",
+              "DocumentMoniker": "C:\\Users\\84792\\source\\repos\\WatchShop\\WatchShop\\Views\\Products\\Index1.cshtml",
+              "RelativeDocumentMoniker": "WatchShop\\Views\\Products\\Index1.cshtml",
+              "ToolTip": "C:\\Users\\84792\\source\\repos\\WatchShop\\WatchShop\\Views\\Products\\Index1.cshtml",
+              "RelativeToolTip": "WatchShop\\Views\\Products\\Index1.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAABwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T07:20:15.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index2.cshtml",
+              "DocumentMoniker": "C:\\Users\\84792\\source\\repos\\WatchShop\\WatchShop\\Views\\Products\\Index2.cshtml",
+              "RelativeDocumentMoniker": "WatchShop\\Views\\Products\\Index2.cshtml",
+              "ToolTip": "C:\\Users\\84792\\source\\repos\\WatchShop\\WatchShop\\Views\\Products\\Index2.cshtml",
+              "RelativeToolTip": "WatchShop\\Views\\Products\\Index2.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T07:28:34.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\84792\\source\\repos\\WatchShop\\WatchShop\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WatchShop\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\84792\\source\\repos\\WatchShop\\WatchShop\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WatchShop\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAABUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T04:27:47.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index1.cshtml",
+              "DocumentMoniker": "C:\\Users\\84792\\source\\repos\\WatchShop\\WatchShop\\Views\\Admin\\Index1.cshtml",
+              "RelativeDocumentMoniker": "WatchShop\\Views\\Admin\\Index1.cshtml",
+              "ToolTip": "C:\\Users\\84792\\source\\repos\\WatchShop\\WatchShop\\Views\\Admin\\Index1.cshtml",
+              "RelativeToolTip": "WatchShop\\Views\\Admin\\Index1.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T18:09:27.059Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
